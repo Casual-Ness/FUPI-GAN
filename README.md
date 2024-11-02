@@ -1,7 +1,7 @@
-# FUPI_GAN
+# FUPI-GAN
 In this study, we use a GAN-based network to predict fine-grained urban flow.
 
-This is an easy implement of FUPI_GAN using Pytorch 1.6, tested on Ubuntu 16.04 with a RTX 3080 GPU.
+This is an easy implement of FUPI-GAN using Pytorch 1.6, tested on Ubuntu 16.04 with a RTX 3080 GPU.
 
 Framework
 ├──img │ ├── Framework_1.png
